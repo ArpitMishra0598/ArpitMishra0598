@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitmishra0598&label=Profile%20views&color=0e75b6&style=flat" alt="arpitmishra0598" /> </p>
 
-- 🌱 I’m currently learning **Mongodb,**
+- 🌱 I’m currently learning **Postgresql,**
 
-- 👯 I’m looking to collaborate on **Cybersecurity Projects**
+- 👯 I’m looking to collaborate on **Database And Cybersecurity Projects**
 
 - 🤝 I’m looking for help with **SQL**
 
